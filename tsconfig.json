@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "noImplicitAny": false,
+        "moduleResolution": "node",
+        "module": "amd",
+        "target": "es5",
+        "forceConsistentCasingInFileNames": true,
+        "strict": false,
+        "noImplicitReturns": false,
+        "noFallthroughCasesInSwitch": true,
+        "allowJs": true
+    }
+}
